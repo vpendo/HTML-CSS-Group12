@@ -1,5 +1,5 @@
 # HTML-CSS-Group12
-This repository demonstrates a clone of Welcome to the Alu_Connekt_Hub website clone with Pure Html and css this repostory is to connect Alu_Connekt_Hub with each other and with the wider community through events, professional development opportunities, and a platform to showcase their talents and achievements and its easy to understand the codes used.
+This repository demonstrates a clone of Welcome to the Alu_Connekt_Hub website clone with Pure HTML and CSS. This repository connects Alu_Connekt_Hub and the broader community through events, professional development opportunities, and a platform to showcase their talents and achievements, and it's easy to understand the codes used.
 
 ## authors
 **Lesly Ndayizeye**
@@ -15,21 +15,21 @@ This repository demonstrates a clone of Welcome to the Alu_Connekt_Hub website c
 
 ### Usage
 ### Steps
-1.  step one clone Respository
+1.  step one clone Repository
 
      git clone https://github.com/vpendo/HTML-CSS-Group12.git
 
 2. Step Two
 
-    open HTML-CSS-Group12 folder in your downloads folder
+    Open the HTML-CSS-Group12 folder in your downloads folder
 
 3. Step three
 
-    open index.html in your broweser
+    open index.html in your browser
 ## License
    [MIT License] (LICENSE)
 
-   Feel Free to create Folks and dont hesistate to reach if encount an issues or ideas .
+   Feel free to create Folks and don't hesitate to reach out if you have any issues or ideas.
 ### Contact us
     Email:vpendo@alustudent.com
          :l.ndiyizeye@alustudent.com
