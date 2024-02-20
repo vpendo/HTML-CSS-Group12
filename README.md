@@ -1,7 +1,7 @@
 # HTML-CSS-Group12
 This repository demonstrates a clone of Welcome to the Alu_Connekt_Hub website clone with Pure Html and css this repostory is to connect Alu_Connekt_Hub with each other and with the wider community through events, professional development opportunities, and a platform to showcase their talents and achievements and its easy to understand the codes used.
 
-## author
+## authors
 **Lesly Ndayizeye**
 
 **Vestine Pendo**
@@ -30,7 +30,7 @@ This repository demonstrates a clone of Welcome to the Alu_Connekt_Hub website c
    [MIT License] (LICENSE)
 
    Feel Free to create Folks and dont hesistate to reach if encount an issues or ideas .
-### Contact me
+### Contact us
     Email:vpendo@alustudent.com
          :l.ndiyizeye@alustudent.com
 
