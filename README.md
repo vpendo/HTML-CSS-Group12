@@ -21,7 +21,7 @@ This repository demonstrates a clone of Welcome to the Alu_Connekt_Hub website c
 
 2. Step Two
 
-    Open the HTML-CSS-Group12 folder in your downloads folder
+    Open the HTML-CSS-Group12 folder in your downloads folder.
 
 3. Step three
 
@@ -29,10 +29,10 @@ This repository demonstrates a clone of Welcome to the Alu_Connekt_Hub website c
 ## License
    [MIT License] (LICENSE)
 
-   Feel free to create Folks and don't hesitate to reach out if you have any issues or ideas.
+   Feel free to create Folks, and don't hesitate to reach out if you have any issues or ideas.
 ### Contact us
     Email:vpendo@alustudent.com
-         :l.ndiyizeye@alustudent.com
+         :l.ndizeye@alustudent.com
 
     Phone: 0782030814
          :0782540966
