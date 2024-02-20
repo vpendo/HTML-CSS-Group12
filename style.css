@@ -1,0 +1,264 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    scroll-behavior: smooth;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid black;
+    padding: 10px;
+    background: #fff;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    
+}
+.logo img{
+    width: 200px;
+    height: 200px;
+    margin: -70px auto;
+    
+    
+
+}
+
+
+
+
+nav .links{
+    margin: 0 40px;
+}
+
+nav .links a{
+    text-decoration: none;
+    padding: 10px;
+    font-size: 18px;
+    color: rgb(97, 96, 96);
+}
+
+nav .links a:hover{
+    color: black;
+}
+
+.home{
+    background: url("https://t4.ftcdn.net/jpg/02/16/94/65/360_F_216946587_rmug8FCNgpDCPQlstiCJ0CAXJ2sqPRU7.jpg") no-repeat center center;
+    height: 100vh;
+}
+
+.events{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.events .card{
+    width: 400px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+    padding: 10px 20px ;
+    margin-bottom: 10px;
+}
+.events .card:hover{
+    
+    cursor: pointer;
+    transform: scale(1.03);
+    transform: translateY(-12px);
+    transition: 0.5s;
+}
+
+.events .card .image{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 10px auto;
+}
+
+.events .card .image img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.events .card h3{
+    text-align: center;
+    margin: 20px 0 10px;
+}
+
+.events .card p{
+    text-align: center;
+    margin: 10px 0;
+}
+
+.events .card .links{
+    margin: 20px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.events .card .links a{
+    text-decoration: none;
+    color: rgb(97, 96, 96);
+}
+
+.events .card .links a:hover{
+    color: black;
+}
+.images img{
+    width: 100%;
+}
+.title{
+    text-align: center;
+    margin: 30px 0;
+}
+
+.about{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.about .card{
+    width: 100%;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 20px 150px;
+    border-radius: 10px;
+}
+
+.about .card h2{
+    font-size: 25px;
+    margin: 10px 0;
+}
+
+.about .card h3{
+    font-size: 17px;
+    margin: 10px 0;
+}
+.about .card p{
+    margin: 10px 0;
+}
+
+.contact{
+    margin: 20px 0;
+    text-align: center;
+    width: 100%;
+}
+
+.contact form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    width: 60%;
+    margin: auto;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.contact form h2{
+    margin: 10px 0;
+    font-size: 17px;
+}
+
+.contact form h3{
+    margin: 10px 0;
+    font-size: 15px;
+}
+
+.contact form input, textarea{
+    width: 90%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    outline: none;
+    border: 1px solid black;
+    resize: none;
+}
+
+input[type="button"]:hover{
+    cursor: pointer;
+}
+
+footer{
+    text-align: center;
+    padding: 10px;
+    background: black;
+    color: white;
+    margin-top: 20px;
+    padding: 20px;
+    width: 100%;
+}
+
+footer a{
+    text-decoration: none;
+    color: gray ;
+}
+.images img{
+    width: 100%;
+    height: 100%;
+    margin: 10px auto;
+}
+.containers{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    margin: 30px auto;
+}
+.containers .object{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    margin: auto;
+
+    
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    border-radius: 8px;
+    
+    width : 300px;
+    cursor: pointer;
+    
+   
+    
+}
+.containers h3{
+    text-align: center;
+    margin: 5px auto;
+}
+.containers .object:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+.containers img{
+    width: 100%;
+    height: 100%;
+    
+    object-fit: cover;
+}
+.containers .cards{
+    width: 100%;
+    height:150px;
+    overflow: hidden;
+}
+.containers .paragraph{
+    text-align: center;
+    padding: 10px;
+    
+}
+
