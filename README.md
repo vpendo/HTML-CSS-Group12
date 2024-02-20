@@ -2,7 +2,7 @@
 This repository demonstrates a clone of Welcome to the Alu_Connekt_Hub website clone with Pure HTML and CSS. This repository connects Alu_Connekt_Hub and the broader community through events, professional development opportunities, and a platform to showcase their talents and achievements, and it's easy to understand the codes used.
 
 ## authors
-**Lesly Ndayizeye**
+**Lesly Ndizeye**
 
 **Vestine Pendo**
 
